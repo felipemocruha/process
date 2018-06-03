@@ -21,6 +21,7 @@
  - #### 2.4 Order the list by dependencies
     - Gantt charts?
     - Create a kanban and milestones
+    - Define fitness functions
  
  - #### 2.5 Get shit done!
     - Code the features (focus on making things work)
