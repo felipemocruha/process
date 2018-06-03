@@ -1,4 +1,4 @@
-# process
+# Design process
 
 ### 1. Define the problem (Big Hairy Audacious Goal)
  - Create a phrase that represents the problem to be solved
